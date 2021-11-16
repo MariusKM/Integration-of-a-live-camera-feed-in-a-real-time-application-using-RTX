@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-KinectV2.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Projekte\Uni 2\Master\NeoKinectExamples\KinectPlugins-master\KinectPlugins-master\Intermediate\Build\Win64\KinectPluginsEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Projekte\Uni 2\Master\NeoKinectExamples\KinectPlugins-master\KinectPlugins-master\Plugins\KinectV2\Intermediate\Build\Win64\UE4Editor\Development\KinectV2\Module.KinectV2.cpp.obj"
+"D:\Projekte\Uni 2\Master\NeoKinectExamples\KinectPlugins-master\KinectPlugins-master\Plugins\KinectV2\Intermediate\Build\Win64\UE4Editor\Development\KinectV2\Module.KinectV2.gen.cpp.obj"
+"D:\Projekte\Uni 2\Master\NeoKinectExamples\KinectPlugins-master\KinectPlugins-master\Plugins\KinectV2\Intermediate\Build\Win64\UE4Editor\Development\KinectV2\Default.rc2.res"
+/OUT:"D:\Projekte\Uni 2\Master\NeoKinectExamples\KinectPlugins-master\KinectPlugins-master\Plugins\KinectV2\Intermediate\Build\Win64\UE4Editor\Development\KinectV2\UE4Editor-KinectV2.lib"
+/INCLUDE:IMPLEMENT_MODULE_KinectV2

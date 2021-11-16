@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RuntimeMeshComponent-0004.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Projekte 2\Unreal\MarchingCubes\Intermediate\Build\Win64\MarchingCubesEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Projekte 2\Unreal\MarchingCubes\Plugins\RuntimeMeshComponent\Intermediate\Build\Win64\UE4Editor\Development\RuntimeMeshComponent\Module.RuntimeMeshComponent.cpp.obj"
+"C:\Projekte 2\Unreal\MarchingCubes\Plugins\RuntimeMeshComponent\Intermediate\Build\Win64\UE4Editor\Development\RuntimeMeshComponent\Module.RuntimeMeshComponent.gen.1_of_4.cpp.obj"
+"C:\Projekte 2\Unreal\MarchingCubes\Plugins\RuntimeMeshComponent\Intermediate\Build\Win64\UE4Editor\Development\RuntimeMeshComponent\Module.RuntimeMeshComponent.gen.2_of_4.cpp.obj"
+"C:\Projekte 2\Unreal\MarchingCubes\Plugins\RuntimeMeshComponent\Intermediate\Build\Win64\UE4Editor\Development\RuntimeMeshComponent\Module.RuntimeMeshComponent.gen.3_of_4.cpp.obj"
+"C:\Projekte 2\Unreal\MarchingCubes\Plugins\RuntimeMeshComponent\Intermediate\Build\Win64\UE4Editor\Development\RuntimeMeshComponent\Module.RuntimeMeshComponent.gen.4_of_4.cpp.obj"
+"C:\Projekte 2\Unreal\MarchingCubes\Plugins\RuntimeMeshComponent\Intermediate\Build\Win64\UE4Editor\Development\RuntimeMeshComponent\Default.rc2.res"
+/OUT:"C:\Projekte 2\Unreal\MarchingCubes\Plugins\RuntimeMeshComponent\Intermediate\Build\Win64\UE4Editor\Development\RuntimeMeshComponent\UE4Editor-RuntimeMeshComponent-0004.lib"

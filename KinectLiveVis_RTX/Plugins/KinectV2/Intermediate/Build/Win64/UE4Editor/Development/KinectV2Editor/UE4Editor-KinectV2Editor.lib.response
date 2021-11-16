@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-KinectV2Editor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Projekte\Uni 2\Master\NeoKinectExamples\KinectPlugins-master\KinectPlugins-master\Intermediate\Build\Win64\KinectPluginsEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"D:\Projekte\Uni 2\Master\NeoKinectExamples\KinectPlugins-master\KinectPlugins-master\Plugins\KinectV2\Intermediate\Build\Win64\UE4Editor\Development\KinectV2Editor\KinectV2EditorModule.cpp.obj"
+"D:\Projekte\Uni 2\Master\NeoKinectExamples\KinectPlugins-master\KinectPlugins-master\Plugins\KinectV2\Intermediate\Build\Win64\UE4Editor\Development\KinectV2Editor\Default.rc2.res"
+/OUT:"D:\Projekte\Uni 2\Master\NeoKinectExamples\KinectPlugins-master\KinectPlugins-master\Plugins\KinectV2\Intermediate\Build\Win64\UE4Editor\Development\KinectV2Editor\UE4Editor-KinectV2Editor.lib"
+/INCLUDE:IMPLEMENT_MODULE_KinectV2Editor

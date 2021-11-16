@@ -1,0 +1,20 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.KinectV2.cpp.obj": [
+			"BoneOrientationDoubleExponentialFilter.cpp.obj",
+			"KinectAnimInstance.cpp.obj",
+			"KinectEventManager.cpp.obj",
+			"KinectFunctionLibrary.cpp.obj",
+			"KinectSensor.cpp.obj",
+			"KinectV2InputDevice.cpp.obj"
+		],
+		"Module.KinectV2.gen.cpp.obj": [
+			"BoneOrientationDoubleExponentialFilter.gen.cpp.obj",
+			"KinectAnimInstance.gen.cpp.obj",
+			"KinectEventManager.gen.cpp.obj",
+			"KinectFunctionLibrary.gen.cpp.obj",
+			"KinectV2.init.gen.cpp.obj"
+		]
+	}
+}
