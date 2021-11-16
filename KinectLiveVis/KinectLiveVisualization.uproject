@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "OculusVR",
+			"Enabled": false
+		},
+		{
+			"Name": "SteamVR",
+			"Enabled": false
+		},
+		{
+			"Name": "NeoKinectUnreal",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/130cfe979a6e4159b634d4b1d23e60da"
+		},
+		{
+			"Name": "MovieRenderPipeline",
+			"Enabled": true
+		},
+		{
+			"Name": "MoviePipelineMaskRenderPass",
+			"Enabled": true
+		}
+	]
+}
